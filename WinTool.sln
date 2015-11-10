@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GetModuleFileName", "GetMod
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GetModuleBaseName", "GetModuleBaseName\GetModuleBaseName.vcxproj", "{05546DD6-B247-4DA9-8A33-784494FF1187}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GetFullPathName", "GetFullPathName\GetFullPathName.vcxproj", "{F74BD160-A74C-44D0-A9B5-F43577562461}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -57,6 +59,10 @@ Global
 		{05546DD6-B247-4DA9-8A33-784494FF1187}.Debug|Win32.Build.0 = Debug|Win32
 		{05546DD6-B247-4DA9-8A33-784494FF1187}.Release|Win32.ActiveCfg = Release|Win32
 		{05546DD6-B247-4DA9-8A33-784494FF1187}.Release|Win32.Build.0 = Release|Win32
+		{F74BD160-A74C-44D0-A9B5-F43577562461}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F74BD160-A74C-44D0-A9B5-F43577562461}.Debug|Win32.Build.0 = Debug|Win32
+		{F74BD160-A74C-44D0-A9B5-F43577562461}.Release|Win32.ActiveCfg = Release|Win32
+		{F74BD160-A74C-44D0-A9B5-F43577562461}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
